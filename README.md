@@ -17,7 +17,7 @@ For my deep dive into the data analyst market, I employed several key tools:
 # Data Structure
 Database structure as seen below consists of four tables: company, skills_job, skills, job_postings.
 
-![Structure](Asset\ERD.png)
+![Structure](Asset/ERD.png)
 
 # Executive Summary
 High Salary Potential: Top-paying data analyst roles offer salaries from 
@@ -38,7 +38,7 @@ d
 
 Important Tools: Knowledge of cloud tools (AWS, Snowflake, Azure) and business intelligence tools (Tableau, Looker) is essential, though these do not command the highest salaries compared to top tier analyst positions.
 ### 1. Top Paying Data Analyst Jobs
-![Place](Asset\QUERY_1.png)
+![Place](Asset/QUERY_1.png)
 
 - Wide Salary Range: Top 10 paying data analyst roles range from $184,000 to $650,000, showing huge salary potential. 
 
@@ -47,8 +47,8 @@ Important Tools: Knowledge of cloud tools (AWS, Snowflake, Azure) and business i
 - Job Title Variety: There are various job positions, indicating a lot of specialization with Data Analytics.
 
 ### 2. Top Paying Job Skills (The Skills needed in those top paying jobs)
-![PLACE](Asset\QUERY_2.png)
-![PLACE](Asset\QUERY_2(1).png)
+![PLACE](Asset/QUERY_2.png)
+![PLACE](Asset/QUERY_2(1).png)
 
 Based on the result, the most demanded skills for top 10 highest paying data analyst job are SQL, Python, Tableau respectively. Other skills such as R, Snowflake Pandas and Excel show varying degrees of demand.
 
