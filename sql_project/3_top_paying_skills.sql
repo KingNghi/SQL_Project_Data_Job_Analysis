@@ -1,9 +1,3 @@
-/* 
-What are the top skills based on salary?
-- Look at the average salary associated with each skill for Data Analyst positions
-- Focuses on roles with specified salaries, regardless of location
-- Why? It reveals how different skills impact salary levels for Data Analysts and helps identify the most financially rewarding skills to acquire or improve
-*/
 
 SELECT
     skills,
@@ -20,9 +14,4 @@ GROUP BY
 ORDER BY 
     avg_salary DESC
 LIMIT 25
-/*
-- High demand for Big data and ML Skills: Data Analysts majoring in big data technology (PySpark,Couchbase), machine learning tools (Jupiter) and Python libraries 
-are more valued in an industry focusing on data processing and predictive modeling capabilities
-- Software development and Deployment proficiency: Knowledge in development and deployment tools (Gitlab, Airflow) indicates a crossover between engineering and data analysis
-- Cloud computing expertise: Cloud-based analytics environments are expected to be of utmost importance, suggesting cloud proficiency is a must
-*/   
+  
