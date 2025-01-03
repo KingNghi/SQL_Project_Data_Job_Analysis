@@ -28,13 +28,7 @@ In-Demand Skills: Key skills for top roles include SQL, Python, and Tableau, wit
 Crossover Skills: Proficiency in software development tools (GitLab, Airflow) indicates a fusion of data analysis and engineering, while cloud computing expertise is increasingly critical.
 
 Accessible Programming Languages: Python and R are popular with low barriers to entry, yielding average salaries of 
-101
-,
-397
-a
-n
-d
-100,499, respectively.
+101,397 and 100,499, respectively.
 
 Important Tools: Knowledge of cloud tools (AWS, Snowflake, Azure) and business intelligence tools (Tableau, Looker) is essential, though these do not command the highest salaries compared to top tier analyst positions.
 ### 1. Top Paying Data Analyst Jobs
